@@ -1,0 +1,44 @@
+/**** Start defoult theam ****/
+
+/* Active link */
+
+.navbar-inverse .navbar-nav > 
+.active > a,.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.carousel-indicators .active ,
+.option-box .gear-check,
+.dropdown-menu .divider
+
+{
+    background-color: #587ee2;
+    
+    
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span
+{
+    color: #587ee2;
+}
+
+.dropdown-menu
+{
+    border-top: solid 3px #587ee2;
+   
+}
+
+
+.option-box  .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #587ee2; 
+}
+
+
+
+
+/**** End defoult theam ****/
